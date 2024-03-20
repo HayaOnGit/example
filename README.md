@@ -3,4 +3,4 @@ Example Respository
 <br>
 testing some things out.
 <br>
-Author - Haya
+Author - HayaS
